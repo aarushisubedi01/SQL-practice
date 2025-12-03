@@ -1,0 +1,12 @@
+pandas
+numpy
+jupyterlab
+ipykernel
+ipython
+ipython-sql
+sqlalchemy
+
+# Database drivers (only install what you actually need)
+pymysql              # MySQL
+psycopg2-binary      # PostgreSQL
+pyodbc               # MS SQL Server / ODBC
