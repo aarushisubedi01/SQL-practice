@@ -1,4 +1,4 @@
-...existing code...
+
 # SQL Learning Codespace — Detailed README
 
 This codespace is an educational workspace demonstrating how to use the IPython SQL magic to create, populate, and query a local SQLite database from a Jupyter notebook. It is intended for learning schema design, inserts, joins, aggregations, and basic troubleshooting.
